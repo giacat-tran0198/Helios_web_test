@@ -1,11 +1,23 @@
 {
   "name": "helios_web_test",
+  "author": {
+    "name": "Quoc Gia Cat TRAN",
+    "email": "giacat.tran0198@gmail.com",
+    "url": "https://github.com/giacat-tran0198"
+  },
   "version": "0.1.0",
   "private": true,
+  "description": "Une test est de concevoir une application qui affiche une liste des employés.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/giacat-tran0198/Helios_web_test"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
+    "axios": "^0.24.0",
+    "prop-types": "^15.7.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
